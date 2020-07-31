@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![me](https://github.com/suecodes/suecodes/blob/master/suecodes.gif)
+![me](https://github.com/suecodes/suecodes/blob/master/suecodes.png)
 
 <!--
 **suecodes/suecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
