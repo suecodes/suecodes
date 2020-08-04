@@ -6,7 +6,7 @@ I am an Aussie living in Atlanta, GA with my beautiful family and two dogs, Capt
 
 I started my career as a software developer for 10 years building web applications and API web services. Then I transitioned to a Business Analyst role where I worked with different stakeholders to understand their problems and needs, and identified solutions to support their business requirements. In Atlanta, I worked for a small start up where I set up and led their QA process, performing functional and regression testing and bug fixes. 
 
-I love to code and I like to keep in touch with technology by building projects to learn new languages and tools. Currently, I'm enjoying Python and Django. 
+I love to code and I like to keep in touch with technology by building projects to learn new languages and tools. Currently, I'm enjoying Python and Django, Pytest and Selenium. 
 
 Follow me: [LinkedIn](https://www.linkedin.com/in/susan-edens/) | [Twitter](https://twitter.com/runhappylife)
 
