@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![me](https://github.com/suecodes/suecodes/blob/master/suecodes.png)
+![me](https://github.com/suecodes/suecodes/blob/master/suecodes-small.png)
 
 I am an Aussie living in Atlanta, GA with my beautiful family and two dogs, Captain Crunch (English Mastiff) and Coco Pop (Labrador Retreiver). You can follow my sweet dogs on [Instagram](https://www.instagram.com/thecerealdogs/). I love bacon, spending time outside in the summer (preferably by the beach), running to keep fit and being with my family. 
 
