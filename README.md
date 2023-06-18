@@ -1,7 +1,5 @@
 # Hi there 👋
 
-![me](https://github.com/suecodes/suecodes/blob/master/suecodes-small.png)
-
 I am an Aussie living in Atlanta, GA with my beautiful family and two dogs, Captain Crunch (English Mastiff) and Coco Pop (Labrador Retreiver). 
 
 <!--
