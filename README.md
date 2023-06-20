@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am an Aussie living in Atlanta, GA with my beautiful family and two dogs, Captain Crunch (English Mastiff) and Coco Pop (Labrador Retreiver). 
+I am an Aussie living in Atlanta, GA with my family and two dogs, Captain Crunch (English Mastiff) and Coco Pop (Labrador Retreiver). 
 
 <!--
 **suecodes/suecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
