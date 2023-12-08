@@ -1,6 +1,8 @@
 # Hi there 👋
 
-I am an Aussie living in Atlanta, GA with my family and two dogs, Captain Crunch (English Mastiff) and Coco Pop (Labrador Retreiver). 
+I am an Aussie living in Atlanta, GA with my family and two dogs, an English Mastiff and a chocolate lab. I moved to Atlanta from Melbourne, Australia in 2019 and I'm living my best life here. I love all kinds of sports but I have a special affinity for baseball (Go Braves!). I enjoy eating great food, hanging with family and friends, and traveling. 
+
+I'm a Senior QA Engineer who's all about making web applications high quality and bug-free. I am experienced in manual testing and automated testing, using different programming languages and tools in my toolbox. My journey is all about delivering a high quality digital experience for users to enjoy. 
 
 <!--
 **suecodes/suecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
